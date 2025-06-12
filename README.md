@@ -11,7 +11,7 @@ This Power BI dashboard provides a comprehensive analysis of UK road accidents, 
 ## 📁 Files Included
 - `Road Accidents Dashboard.pbix` – Fully functional Power BI dashboard
 - `Road Accident Dashboard.pdf` – PDF snapshot of the dashboard for quick preview
-- `vehicle_images/` – Icons and images used in the dashboard visuals
+- `Vehicle Images/` – Icons and images used in the dashboard visuals
 
 > ⚠️ Note: Dataset not included due to size constraints. Available upon request.
 
